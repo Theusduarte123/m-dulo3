@@ -2,83 +2,79 @@
     "empregados": [
       {
         "id": 1,
-        "nome": "Brian Cerqueira",
+        "nome": "Cerqueira Neymar",
         "cpf": "123.321.456-13",
         "salario": "9000"
       },
       {
         "id": 2,
-        "nome": "Pelé",
+        "nome": "Matheus Duarte",
         "cpf": "198.351.456-13",
         "salario": "1000"
       },
       {
         "id": 3,
-        "nome": "Richarlison",
+        "nome": "Matheus Keher",
         "cpf": "153.125.128-651",
         "salario": "13500"
       },
       {
         "id": 4,
-        "nome": "Neymar Júnior",
+        "nome": "Gabriel",
         "cpf": "897.435.321-15",
         "salario": "1500"
       }
     ],
-    "inquilino": [
+    "perifericos": [
       {
         "id": 1,
-        "nome": "Adão Pereira",
-        "imovel": 4,
-        "aluguel": "900"
+        "nome": "Mouse Razer Deathadder V2",
+        "preco": "300"
       },
       {
         "id": 2,
-        "nome": "Yago",
-        "imovel": 1,
-        "aluguel": "1500"
+        "nome": "Mouse Glorious Model D",
+        "preco": "250"
       },
       {
         "id": 3,
-        "nome": "Felício Fernando",
-        "imovel": 2,
-        "aluguel": "9800"
+        "nome": "Teclado Razer Blackwidow v2",
+        "preco": "700"
       },
       {
         "id": 4,
-        "nome": "Felix Jr",
-        "imovel": 3,
-        "aluguel": "25000"
+        "nome": "Teclado Corsair K65",
+        "preco": "350"
       }
     ],
-    "imovel": [
+    "computadores": [
       {
         "id": 1,
-        "valor_aluguel": "1500",
-        "vagas_garagem": "2",
-        "quartos": "3",
-        "banheiros": "2"  
+        "valor_computador": "8000",
+        "placa_de_video": "RTX 3060",
+        "processador": "Ryzen 5 5600",
+        "memoria_ram": "16GB DDR4"  
       },
       {
         "id": 2,
-        "valor_aluguel": "9800",
-        "vagas_garagem": "3",
-        "quartos": "6",
-        "banheiros": "5"
+        "valor_computador": "12000",
+        "placa_de_video": "RTX 3070",
+        "processador": "Ryzen 5 5600X",
+        "memoria_ram": "16GB DDR4"
       },
       {
         "id": 3,
-        "valor_aluguel": "25000",
-        "vagas_garagem": "10",
-        "quartos": "9",
-        "banheiros": "7"  
+        "valor_computador": "16000",
+        "placa_de_video": "RTX 3080",
+        "processador": "Ryzen 7 5700",
+        "memoria_ram": "16GB DDR4"
       },
       {
         "id": 4,
-        "valor_aluguel": "900",
-        "vagas_garagem": "1",
-        "quartos": "2",
-        "banheiros": "1"  
+        "valor_computador": "23000",
+        "placa_de_video": "RTX 3080ti",
+        "processador": "Ryzen 7 5800X",
+        "memoria_ram": "32GB DDR4"
       }
     ]
   }
